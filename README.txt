@@ -1,0 +1,1 @@
+The code base for these matrix classes are provided by Brown University through the Coursera open course Programming the Matrix.
